@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo3/static/css/main.adc631f7.css",
+    "main.js": "/todo3/static/js/main.76aa9050.js",
+    "static/js/787.1ac5a8a5.chunk.js": "/todo3/static/js/787.1ac5a8a5.chunk.js",
+    "static/media/abstract-luxury-lavender-liquid-watercolor-background-with-golden-stains_353323-395.avif": "/todo3/static/media/abstract-luxury-lavender-liquid-watercolor-background-with-golden-stains_353323-395.c836e11837f7ecd259a5.avif",
+    "index.html": "/todo3/index.html",
+    "main.adc631f7.css.map": "/todo3/static/css/main.adc631f7.css.map",
+    "main.76aa9050.js.map": "/todo3/static/js/main.76aa9050.js.map",
+    "787.1ac5a8a5.chunk.js.map": "/todo3/static/js/787.1ac5a8a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc631f7.css",
+    "static/js/main.76aa9050.js"
+  ]
+}
